@@ -1,0 +1,12 @@
+{
+  "name": "forkkit",
+  "version": "1.0.0",
+  "description": "A tool to bring up the stack",
+  "license": "private",
+  "main": "index.js",
+  "repository": "git@github.com:watershed-studio/shedkit.git",
+  "authors": [
+    "Michael Smyers <michael@smyers.net>",
+    "@wagmidoteth"
+  ]
+}
